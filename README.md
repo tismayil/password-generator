@@ -11,7 +11,7 @@ $ php password-generator --info="victim name,victim surname , victim age , victi
 - --md5 The passwords created with this value will also be created in your md5
  
 
-![N|Solid](https://raw.githubusercontent.com/tismayil/password-generator/master/images/2.png)
+![N|Solid](https://raw.githubusercontent.com/tismayil/password-generator/master/images/3.png)
 
 ```sh
 $ php password-generator --info="victim name,victim surname , victim age , victim email" --md5
