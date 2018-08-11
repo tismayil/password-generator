@@ -1,4 +1,7 @@
 # Password Generator
+
+##### For BruteForce or Md5 Crack/Comparison
+
 ![N|Solid](https://raw.githubusercontent.com/tismayil/password-generator/master/images/1.png)
 
 ```sh
