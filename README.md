@@ -1,5 +1,5 @@
 # Password Generator
-![N|Solid](https://i.hizliresim.com/oVybG7.png)
+![N|Solid](https://raw.githubusercontent.com/tismayil/password-generator/master/images/1.png)
 
 ```sh
 $ php password-generator --info="victim name,victim surname , victim age , victim email"
